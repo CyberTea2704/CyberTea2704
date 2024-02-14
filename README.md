@@ -34,6 +34,9 @@ After years in logistics operations and warehouseing as an operations manager my
 <img src="https://img.shields.io/badge/-IBM%20Technical%20Support%20Certificate-blue?style=for-the-badge&logo=IBM&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-blue?style=for-the-badge&logo=Google&logoColor=white" />
 </div>
+
 ## Projects
- - Mock Security Audit
+<div>
+- Mock Security Audit
+</div>
 
