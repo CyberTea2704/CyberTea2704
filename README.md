@@ -10,27 +10,30 @@ PROBLEM SOLVER * KNOWLEDGE HUNTER * CLEAR COMMUNICATOR * SCI-FI ENTHUSIAST * FRE
 After years in logistics operations and warehouseing as an operations manager my keeness to explore new things has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-
+<div>
+</div>
 
 ## Tools
-
+<div>
+</div>
 
 ### Network
 <div>
 </div>
 
 ### Endpoint
-
+<div>
+</div>
 
 ### SIEM
-
+<div>
+</div>
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-IBM%20Technical%20Support%20Certificate-blue?style=for-the-badge&logo=IBM&logoColor=white" />
-
-
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-blue?style=for-the-badge&logo=Google&logoColor=white" />
 </div>
 ## Projects
+ - Mock Security Audit
 
