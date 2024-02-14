@@ -2,7 +2,7 @@
 <a href="www.linkedin.com/in/thiago-correia-34a39551"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-* PROBLEM SOLVER * KNOWLEDGE HUNTER * CLEAR COMMUNICATOR * SCI-FI ENTHUSIAST * FREE THINKER *
+PROBLEM SOLVER * KNOWLEDGE HUNTER * CLEAR COMMUNICATOR * SCI-FI ENTHUSIAST * FREE THINKER
 
 
 ## Objective
